@@ -13,4 +13,3 @@ typedef struct Libros Libro;
 extern int registryCount;
 
 Libro* getLibro(FILE *fp);
-
